@@ -60,3 +60,20 @@ The dataset contains Amazon's sales transactions including:
 **Source:**  [Amazon Sales Dataset – Kaggle](https://www.kaggle.com/code/mehakiftikhar/amazon-sales-dataset-eda) 
 ---
 
+## 📥 How to Use
+1. Download the `.pbix` file from this repository.
+2. Open it in **Power BI Desktop**.
+3. Use slicers to explore data by segment and year.
+
+---
+
+## 👩‍💻 Author
+**Harshita Bakshi**  
+Data Analyst | Python • SQL • Power BI • Tableau • Excel  
+[LinkedIn](www.linkedin.com/in/harshita-bakshi) | [GitHub](https://github.com/harshitabakshiiii)
+
+---
+
+⭐ *If you found this project useful, feel free to star this repository!*
+
+
