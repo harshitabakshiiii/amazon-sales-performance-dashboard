@@ -1,8 +1,8 @@
 # 📊 Amazon Sales Performance Dashboard 
 
-An interactive **Power BI** dashboard analyzing **Amazon's 2019 sales performance** with insights on revenue, profit, order volume, category contributions, and regional trends.
+An interactive **Power BI** dashboard analyzing **Amazon's sales performance** with insights on revenue, profit, order volume, category contributions, and regional trends.
 
-![Dashboard Screenshot](Amazon_Sales_Performance_Dashboard_Harshita_Bakshi.png)
+![Dashboard Screenshot](Amazon_Sales_Dashboard.png)
 
 ---
 
@@ -50,7 +50,7 @@ This dashboard delivers a **comprehensive performance review of Amazon's 2019 sa
 ---
 
 ## 📊 Dataset Information
-The dataset contains Amazon's 2019 sales transactions including:
+The dataset contains Amazon's sales transactions including:
 - Order IDs and Dates
 - Product Categories
 - States and Cities
@@ -59,14 +59,4 @@ The dataset contains Amazon's 2019 sales transactions including:
 
 **Source:**  [Amazon Sales Dataset – Kaggle](https://www.kaggle.com/code/mehakiftikhar/amazon-sales-dataset-eda) 
 ---
-
-## 📥 How to Use
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/<your-username>/amazon-sales-performance-dashboard.git
-   
-## 👩‍💻 Author
-Harshita Bakshi
-Data Analyst | Power BI • Excel • SQL • Tableau
-LinkedIn | GitHub
 
